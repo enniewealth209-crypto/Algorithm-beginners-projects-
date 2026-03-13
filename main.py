@@ -78,7 +78,7 @@ def main():
             print()
 
         else:
-            print(f"\nCountry '{country_input}' not found.\n")
+            print(f"\nCountry '{country_input}' not found!, misspelled or does not exit.\n")
 
 
 if __name__ == '__main__':
