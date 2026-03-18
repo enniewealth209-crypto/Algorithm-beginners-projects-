@@ -4,15 +4,15 @@ from tkinter import messagebox, ttk
 import webbrowser
 
 # --- Styling Constants ---
-BG_COLOR = "#f0f2f5"
+BG_COLOR = "#388d9c"
 SIDEBAR_COLOR = "#ffffff"
 CARD_COLOR = "#ffffff"
 PRIMARY_COLOR = "#1a73e8"
 TEXT_COLOR = "#333333"
-HEADER_COLOR = "#1a73e8"
+HEADER_COLOR = "#010b18"
 ACCENT_COLOR = "#4caf50"
 HOVER_COLOR = "#1557b0"
-PLACEHOLDER_COLOR = "#999999"
+PLACEHOLDER_COLOR = "#A81515"
 FONT_MAIN = ("Segoe UI", 10)
 FONT_BOLD = ("Segoe UI", 10, "bold")
 FONT_HEADER = ("Segoe UI", 18, "bold")
